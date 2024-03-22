@@ -35,3 +35,5 @@
   mbullock710@gmail.com
 
   The URL of the deployed application: 
+
+  https://text-editor-wmkd.onrender.com
