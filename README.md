@@ -26,7 +26,7 @@
 
   ## Screenshot
 
-  
+  ![JATE](https://github.com/mbullock710/Text-Editor/assets/148500556/0f26e4aa-520c-48b6-8333-d928abfd5360)
 
   ## Questions
 
